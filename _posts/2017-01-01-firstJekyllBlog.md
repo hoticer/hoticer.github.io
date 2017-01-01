@@ -4,7 +4,7 @@ title:  "第一篇githubPage"
 date:   2017-01-01 17:10:11 +0800
 categories: hello
 ---
-{% highlight java %}
+{% highlight txt %}
 大家好,这是我的第一篇githubPage博客
 {% endhighlight %}
 
