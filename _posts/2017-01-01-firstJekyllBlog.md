@@ -10,4 +10,4 @@ while(true){
 }
 {% endhighlight %}
 
-这是我的另一个博客:[燃烧的冰](http://ablazeice.cn/solo).
+这是我的另一个博客:[Hot Ice](https://justxy.xyz/).
